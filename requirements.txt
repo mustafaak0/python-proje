@@ -1,0 +1,2 @@
+# Bağımlılıkları buraya ekleyin, örn:
+# requests==2.32.3
